@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/delayed_message/pom.xml" />
         <option value="$PROJECT_DIR$/produce02/pom.xml" />
         <option value="$PROJECT_DIR$/VhrSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/clusterDemo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
