@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b75e8a97-6f97-4939-818e-7bbc0404c2da" name="Changes" comment="延迟队列">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delayed_message" beforeDir="false" afterPath="$PROJECT_DIR$/delayed_message" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/delayed_message" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2SHZ8Oupvv2GyVmMSvRRDqNTPDW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Documents/CodeSpace/IdeaProjects/parentProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates",
+    "spring.configuration.checksum": "25483b301aaa8df359e7eb190338a408",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\CodeSpace\IdeaProjects\RabbitMq_demo\RabbitMQ_demo\producer01\src\main\java\com\hengxing\producer01" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hengxing.producer01.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Produce02ApplicationTests.contextLoads">
+    <configuration name="Consumer01ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consumer01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hengxing.consumer01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hengxing.consumer01" />
+      <option name="MAIN_CLASS_NAME" value="com.hengxing.consumer01.Consumer01ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer01ApplicationTests.testTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consumer01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hengxing.consumer01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hengxing.consumer01" />
+      <option name="MAIN_CLASS_NAME" value="com.hengxing.consumer01.Consumer01ApplicationTests" />
+      <option name="METHOD_NAME" value="testTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelayedMessageApplicationTests.testDelayed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="delayed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hengxing.delayed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hengxing.delayed" />
+      <option name="MAIN_CLASS_NAME" value="com.hengxing.delayed.DelayedMessageApplicationTests" />
+      <option name="METHOD_NAME" value="testDelayed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Produce02ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="produce02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hengxing.produce02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hengxing.produce02" />
+      <option name="MAIN_CLASS_NAME" value="com.hengxing.produce02.Produce02ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RabbitMQ_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RabbitMQ_demo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.consumer01.Consumer01Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hengxing.consumer01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="consumer02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.consumer02.Consumer02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelayedMessageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="delayed" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.delayed.DelayedMessageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Produce02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="produce02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.produce02.Produce02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="producer01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.producer01.Producer01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="RPC_Client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.rpc_client.RpcClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="RPC_Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.rpc_server.RpcServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VhrSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="vhr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hengxing.vhr.VhrSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Produce02ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Consumer01ApplicationTests.testTransaction" />
+        <item itemvalue="Spring Boot.Consumer01Application" />
+        <item itemvalue="JUnit.Consumer01ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.DelayedMessageApplicationTests.testDelayed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75e8a97-6f97-4939-818e-7bbc0404c2da" name="Changes" comment="" />
+      <created>1688805307686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688805307686</updated>
+      <workItem from="1688805309756" duration="417000" />
+      <workItem from="1688805739290" duration="991000" />
+      <workItem from="1688806741784" duration="3356000" />
+      <workItem from="1688872632184" duration="2449000" />
+      <workItem from="1688939906571" duration="702000" />
+      <workItem from="1688940618734" duration="225000" />
+      <workItem from="1688940853296" duration="2533000" />
+      <workItem from="1688952291581" duration="569000" />
+      <workItem from="1688956250146" duration="5126000" />
+      <workItem from="1688979469376" duration="2966000" />
+      <workItem from="1688995453238" duration="2328000" />
+      <workItem from="1689038309500" duration="1438000" />
+      <workItem from="1689068725878" duration="804000" />
+      <workItem from="1689070795490" duration="791000" />
+      <workItem from="1689078915067" duration="6562000" />
+      <workItem from="1689125011780" duration="2424000" />
+      <workItem from="1689250066416" duration="5001000" />
+      <workItem from="1689297597491" duration="1055000" />
+      <workItem from="1689405143385" duration="1575000" />
+      <workItem from="1689407987917" duration="11179000" />
+      <workItem from="1689436667941" duration="142000" />
+      <workItem from="1689436818697" duration="326000" />
+      <workItem from="1689437180208" duration="478000" />
+      <workItem from="1689473652091" duration="3604000" />
+      <workItem from="1689495118238" duration="13548000" />
+      <workItem from="1689557265137" duration="13000" />
+      <workItem from="1689571467381" duration="5020000" />
+      <workItem from="1689587218623" duration="118000" />
+      <workItem from="1689587344821" duration="1454000" />
+      <workItem from="1689589118110" duration="379000" />
+      <workItem from="1689672477375" duration="39000" />
+      <workItem from="1689687662975" duration="886000" />
+      <workItem from="1689691040004" duration="165000" />
+      <workItem from="1689730385140" duration="1901000" />
+      <workItem from="1690032604202" duration="2861000" />
+      <workItem from="1690038137419" duration="45000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1689408455384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689408455384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dead line exchange;Time to live config;Delayed message line">
+      <option name="closed" value="true" />
+      <created>1689426032192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689426032192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="消息可靠性部分">
+      <option name="closed" value="true" />
+      <created>1689495266862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689495266862</updated>
+    </task>
+    <task id="LOCAL-00004" summary="消费确认的两种方式">
+      <option name="closed" value="true" />
+      <created>1689521853024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689521853024</updated>
+    </task>
+    <task id="LOCAL-00005" summary="远程调用的提交">
+      <option name="closed" value="true" />
+      <created>1690033357765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690033357765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="远程调用的提交">
+      <option name="closed" value="true" />
+      <created>1690033549028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690033549028</updated>
+    </task>
+    <task id="LOCAL-00007" summary="延迟队列">
+      <option name="closed" value="true" />
+      <created>1690033796344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690033796344</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="producer commit" />
+    <MESSAGE value="dead line exchange;Time to live config;Delayed message line" />
+    <MESSAGE value="消息可靠性部分" />
+    <MESSAGE value="消费确认的两种方式" />
+    <MESSAGE value="远程调用的提交" />
+    <MESSAGE value="延迟队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="延迟队列" />
+  </component>
+</project>

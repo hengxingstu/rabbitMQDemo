@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/consumer01/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer02/pom.xml" />
+        <option value="$PROJECT_DIR$/producer01/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Client/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/delayed_message/pom.xml" />
+        <option value="$PROJECT_DIR$/produce02/pom.xml" />
+        <option value="$PROJECT_DIR$/VhrSystem/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
