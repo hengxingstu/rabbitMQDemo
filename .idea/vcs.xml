@@ -2,10 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/RPC_Client" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/RPC_Server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/consumer01" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/delayed_message" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/producer01" vcs="Git" />
   </component>
 </project>

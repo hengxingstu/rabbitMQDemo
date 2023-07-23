@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b75e8a97-6f97-4939-818e-7bbc0404c2da" name="Changes" comment="延迟队列">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delayed_message" beforeDir="false" afterPath="$PROJECT_DIR$/delayed_message" afterDir="false" />
-    </list>
+    <list default="true" id="b75e8a97-6f97-4939-818e-7bbc0404c2da" name="Changes" comment="延迟队列" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +18,30 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/delayed_message" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1690077220" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,7 +79,7 @@
     "git-widget-placeholder": "master",
     "ignore.preview.features.used": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/Documents/CodeSpace/IdeaProjects/parentProject",
+    "last_opened_file_path": "D:/Documents/CodeSpace/IdeaProjects/RabbitMq_demo/RabbitMQ_demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +88,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "25483b301aaa8df359e7eb190338a408",
     "vue.rearranger.settings.migration": "true"
   }
@@ -279,6 +295,7 @@
       <workItem from="1689730385140" duration="1901000" />
       <workItem from="1690032604202" duration="2861000" />
       <workItem from="1690038137419" duration="45000" />
+      <workItem from="1690076232986" duration="1369000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -371,6 +388,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/RPC_Client" />
+      <path value="$PROJECT_DIR$/RPC_Server" />
+      <path value="$PROJECT_DIR$/consumer01" />
+      <path value="$PROJECT_DIR$/delayed_message" />
+      <path value="$PROJECT_DIR$/producer01" />
+    </ignored-roots>
     <MESSAGE value="init commit" />
     <MESSAGE value="producer commit" />
     <MESSAGE value="dead line exchange;Time to live config;Delayed message line" />
